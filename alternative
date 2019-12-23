@@ -1,0 +1,48 @@
+@@ -0,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Strike & Boat</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+  <body>
+    <header>
+      <h1>STRIKE & BOAT</h1>
+      </header>
+    <section>
+      <nav>
+      <ul>
+        <li><span>На главную</span></li>
+        <li><a href="#">Байдарка</a></li>
+        <li><a href="#">Страйкбол</a></li>
+        <li><a href="#">Всякое</a></li>
+      </ul>
+      </nav>
+      </section>
+    <main>
+    <section>
+      <article>
+      <h2>Знакомство</h2>
+      <p>Приветствую Тебя, мой дорогой читатель!</p>
+      <p>Меня зовут Андрей. Недавно я увлекся версткой сайтов. Поэтому я решил создать свою страницу, где буду выкладывать информацию о своих увлечениях. Естественно, я буду не только рассказывать о себе, но и выкладывать фотографии и знакомить с хорошими людьми, которые оказывают своё влияние на мои увлечения.</p>
+      </article>
+    </section>
+      <section>
+        <article>
+      <h2>Моё хобби</h2>
+          <p>Немного фотографий моих увлечений.</p>
+        <aside>
+      <a href="https://i.postimg.cc/7hLCnDF9/image.jpg"><img src="https://i.postimg.cc/7hLCnDF9/image.jpg" alt="Поход на байдарке в Рощино"></a>
+      <a href="https://i.postimg.cc/hjcQhVMH/image.jpg"><img src="https://i.postimg.cc/hjcQhVMH/image.jpg" alt="На берегу Гладышевского озера"></a>
+      <a href="https://i.postimg.cc/NMtgvHcF/image.jpg"><img src="https://i.postimg.cc/NMtgvHcF/image.jpg" alt="Победители турнира Вызов Хомяка"></a>
+      <a href="https://i.postimg.cc/sgWMcTNk/image.jpg"><img src="https://i.postimg.cc/sgWMcTNk/image.jpg" alt="Свои люди"></a>
+        </aside>
+        </article>
+    </section>
+    </main>
+      <footer>
+      <p>© 2019 — Andrey Vinogradov</p>
+      </footer>
+  </body>
+</html>
